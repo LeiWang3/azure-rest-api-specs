@@ -157,6 +157,7 @@ input-file:
 - ./Microsoft.Sql/preview/2021-05-01-preview/ServerTrustCertificates.json
 - ./Microsoft.Sql/preview/2021-08-01-preview/ElasticPools.json
 - ./Microsoft.Sql/preview/2021-08-01-preview/IPv6FirewallRules.json
+- ./Microsoft.Sql/preview/2021-11-01-preview/IPv6FirewallRules.json
 
 
 # Needed when there is more than one input file
